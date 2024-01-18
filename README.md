@@ -1,2 +1,2 @@
 # vending-machine-app
-To return the least amount of notes back to the customers.
+A simple vending machine application to emphasize the use of a greedy algorithm to minimize the number of cash notes returned to the customer in a vending machine scenario.
